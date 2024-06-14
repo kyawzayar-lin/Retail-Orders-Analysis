@@ -8,6 +8,9 @@ This project aims to analyze retail orders data to uncover key business insights
 
 ## Business Flow
 
+![Retail_order analysis Flows](https://github.com/kyawzayar-lin/Retail-Order-Analysis/assets/159099715/9b9927be-e33d-4e4e-a026-9c14daad8a05)
+
+
 ### 1. Data Extraction
 
 - **Source**: Kaggle
