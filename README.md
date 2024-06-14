@@ -44,7 +44,7 @@ This project aims to analyze retail orders data to uncover key business insights
 
 ## Key Metrics and Visualizations
 
-![Retail_order analysis](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/Retail_order%20analysis%20Flows.jpg)
+![Retail_order analysis](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/retail_orders_analysis.pdf)
 
 1. **Monthly Growth by Subcategory**
    - Visualization showing the monthly growth rates of different product subcategories.
