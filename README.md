@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Retail-Order-Analysis
 ETL Analysis for Retail_Orders with Python, dbt, PowerBi and MySQL
 
@@ -9,7 +8,7 @@ This project aims to analyze retail orders data to uncover key business insights
 
 ## Business Flow
 
-![Retail_order analysis Flows](https://github.com/kyawzayar-lin/Retail-Order-Analysis/assets/159099715/9b9927be-e33d-4e4e-a026-9c14daad8a05)
+![Retail_order analysis Flows](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/Retail_order%20analysis%20Flows.jpg)
 
 
 ### 1. Data Extraction
@@ -39,6 +38,9 @@ This project aims to analyze retail orders data to uncover key business insights
     - `monthlygrowth compare 2022 and 2023`: Compare monthly growth of 2022 and 2023 sales performance.
 
 ### 4. Visualization
+
+
+![Retail_order analysis Flows](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/retail_orders_analysis.pdf)
 
 - **Tools**: Power BI, Tableau, or any preferred visualization tool
 - The key metrics and analysis results are visualized to create comprehensive reports. These visualizations help in understanding the data insights effectively.
