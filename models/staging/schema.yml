@@ -1,0 +1,13 @@
+
+version: 2
+
+sources:
+  - name: raw_retail_orders
+    description: "This is retail orders raw data"
+    database : retail_orders
+    schema: retail_orders
+    tables:
+      - name: orders
+        description: "This is retail orders."
+
+

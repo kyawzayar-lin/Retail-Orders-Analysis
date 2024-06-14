@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail-Order-Analysis
 ETL Analysis for Retail_Orders with Python, dbt, PowerBi and MySQL
 
@@ -78,3 +79,20 @@ This project aims to analyze retail orders data to uncover key business insights
 
 This project provides a structured approach to analyzing retail orders data, from extraction to visualization. The insights derived from this analysis can help businesses make informed decisions and optimize their operations.
 
+=======
+Welcome to your new dbt project!
+
+### Using the starter project
+
+Try running the following commands:
+- dbt run
+- dbt test
+
+
+### Resources:
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+>>>>>>> 466520c (retail_orders analysis)
