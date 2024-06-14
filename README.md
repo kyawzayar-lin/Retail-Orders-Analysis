@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Retail-Order-Analysis
 ETL Analysis for Retail_Orders with Python, dbt, PowerBi and MySQL
 
