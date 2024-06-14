@@ -39,10 +39,10 @@ This project aims to analyze retail orders data to uncover key business insights
 
 ### 4. Visualization
 
-## Downloadable Resources
+#### Downloadable Resources
 
-- [Power BI Visualization Report](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/retail_orders_analysis.pbix)
-- [Power BI Visualization Report](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/retail_orders_analysis.pdf)
+- [Power BI Visualization Report .pbix](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/retail_orders_analysis.pbix)
+- [Power BI Visualization Report PDF](https://github.com/kyawzayar-lin/Retail-Orders-Analysis/blob/main/retail_orders_analysis.pdf)
 
 - **Tools**: Power BI, Tableau, or any preferred visualization tool
 - The key metrics and analysis results are visualized to create comprehensive reports. These visualizations help in understanding the data insights effectively.
