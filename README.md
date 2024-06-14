@@ -35,6 +35,7 @@ This project aims to analyze retail orders data to uncover key business insights
     - `monthly_growth_category`: Analyzes the monthly growth rate of sales by category.
     - `top10_products_by_revenue`: Identifies the top 10 products by revenue.
     - `top5_selling_products_per_region`: Identifies the top 5 selling products in each region.
+    - `monthlygrowth compare 2022 and 2023`: Compare monthly growth of 2022 and 2023 sales performance.
 
 ### 4. Visualization
 
